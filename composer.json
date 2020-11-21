@@ -1,0 +1,14 @@
+{
+    "name": "aftxey5trkzzgevb/lively-hall-lba5",
+    "type": "project",
+    "description": "",
+    "license": "MIT",
+    "require": {
+        "ciroue/support": "dev-master",
+        "vlucas/phpdotenv": "^4.1.0",
+        "busybrain/matrix": "^1.0"
+    },
+    "require-dev": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
