@@ -4,6 +4,7 @@ $rr = [
     'Добро пожаловать в PHPSandbox',
     'Bienvenue sur PHPSandbox',
     'Bienvenido a PHPSandbox',
+    "ll"
 ];
 
 shuffle($rr);
